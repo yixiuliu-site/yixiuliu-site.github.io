@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Yixiu Liu** is a PhD candidate concentrationg in Biostiatics, supervised by [Dr. Depeng jiang](https://depengjiang.github.io/contact/), in the Department of Community Health Sciences at the University of Manitoba. She is also 
+**Yixiu Liu** is a PhD candidate concentrationg in Biostiatics, supervised by [Dr. Depeng jiang](https://depengjiang.github.io/contact/), in the Department of Community Health Sciences at the University of Manitoba. Her thesis focuses on developing new Bayesian approaches for joint modeling of longitudinal and survival data. Besides her research, she is passionate about community service work to improve the graduate life of her peers  She is also a trainee at the Data Science Platform at the [George & Fay Yee Centre for Health Innovation (CHI)](https://umanitoba.ca/centre-for-healthcare-innovation/). 
 
 A data-driven personal website
 ======
