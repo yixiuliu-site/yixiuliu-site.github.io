@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-fall-teaching-1
 venue: "University of Manitoba, Department of Cummunity Health Sciences"
-date: "2017 Fall - 2022 FALL"
+date: 2017-01-01
 location: "Winnipeg, Manitoba"
 ---
 
