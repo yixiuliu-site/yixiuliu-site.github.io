@@ -2,9 +2,9 @@
 title: "Teaching Assistant for CHSC 7820"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2017-2022-teaching-1
+permalink: /teaching/2017-fall-teaching-1
 venue: "University of Manitoba, Department of Cummunity Health Sciences"
-date: 2017
+date: "2017 Fall - 2022 FALL"
 location: "Winnipeg, Manitoba"
 ---
 
