@@ -10,7 +10,7 @@ author_profile: true
 Teaching Assistant
 =======
 
-### 2017 Fall, - 2022 Fall, CHSC 7820 Biostatistics for Community Health Sciences ###
+### 2017 Fall - 2022 Fall, CHSC 7820 Biostatistics for Community Health Sciences ###
 
 Graduate course, Department of Community Health Sciences, Univeristy of Manitoba, Winnipeg, Manitoba
 
