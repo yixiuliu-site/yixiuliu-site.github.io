@@ -22,3 +22,6 @@ main:
   #  url: /markdown/
   - title: "Projects"
     url: /projects/
+
+  - title: "Work Experience"
+    url: /work/
