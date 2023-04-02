@@ -2,14 +2,14 @@
 title: "Junior Epidemiologist "
 collection: work
 type: "Apr 2018 – Feb 2020"
-permalink: /work/junior-epi
+permalink: /work/junior-epi-1
 venue: "Under supervision of Dr. Joy Wei and Dr. Carla Loeppky"
 # date: 2018-04-30
 location: "Information Management & Analytics, Manitoba Health, Seniors and Active Living, Winnipeg, Manitoba"
 ---
 
-### Duties ###
-
+Duties
+======
 * Developed SAS projects to automatically extract and link datasets from large and complex database (i.e., Public Health Information Management (PHIMS)) for multiple projects
 * Performed data analysis using various large administrative and surveillance databases, e.g., Discharge Abstract Database (DAD), National Ambulatory Care Reporting System (NARCS), Immunization, Long Term Care (LTC) registry data, Registry Data, etc.
 * Standardized data extraction, cleaning and statistical analysis projects to let novices could generate reports
