@@ -1,7 +1,7 @@
 ---
 title: "Canadian Longitudinal Study on Aging (CLSA)"
 collection: projects
-type: "Final Project"
+# type: "Final Project"
 permalink: /projects/CLSA
 venue: "Under supervision of Dr. Ruth Barclay and Dr. Sandra Webber"
 date: 2020-01-01
