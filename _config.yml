@@ -259,6 +259,14 @@ defaults:
       layout: work
       author_profile: true
       share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: projects
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
