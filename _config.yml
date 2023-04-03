@@ -193,6 +193,9 @@ collections:
   work:
     output: true
     permalink: /:collection/:path/
+  serviceVolunteer:
+    output: true
+    permalink: /:collection/:path/
   
 
 
@@ -264,6 +267,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  #  _serviceVolunteer
+  - scope:
+      path: ""
+      type: serviceVolunteer
     values:
       layout: single
       author_profile: true
