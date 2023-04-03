@@ -15,12 +15,12 @@ Yixiu works as a Biostatistician at the Cardiac Science Manitoba at the St. Boni
 Her research focus is to develop new statistical methods for health-related studies and program evaluation, and to conduct novel applications of existing methods. Her research and work experience cover:
 
 * Bayesian inference 
-* longitudinal data analysis
-* survival analysis
-* joint model of longitudinal and survival outcomes
-* person-oriented statistical approach (i.e., latent class analysis)
-* structural equation modeling
-* epidemiology
-* spatial epidemiology and disease mapping 
-* administrative database
-* data linkage
+* Longitudinal data analysis
+* Survival analysis
+* Joint model of longitudinal and survival outcomes
+* Person-oriented statistical approach (i.e., latent class analysis)
+* Structural equation modeling
+* Epidemiology
+* Spatial epidemiology and disease mapping 
+* Administrative database
+* Data linkage
