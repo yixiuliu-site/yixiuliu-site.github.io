@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics and Applied Mathematics, Hainan Normal University, Haikou, China, 2009-2013
+* M.Sc. in Probability and Statistics, Hainan Normal University, Haikou, China, 2014-2017
+* M.Sc. in Biostatistics, Department of Community Health Sciences (CHS), University of Manitoba, 2017-2019
+* Ph.D Candidate in Biostatistics, Department of Community Health Sciences (CHS), University of Manitoba, 2019- current 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2018 - Feb 2020: Junior Epidemiologist
+  * Information Management & Analytics, Manitoba Health, Seniors and Active Living
+  * Supervisor: Dr. Joy Wei and Dr. Carla Loeppky
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Apr 2020 - Dec 2022: Research Assistant/Data Analyst  
+  * College of Rehabilitaion Sciences, University of Manitoba
+  * Supervisor: Dr. Ruth Barclay and Dr. Sandra Webber
+  * Project: the Canadian Longitudinal Study on Aging (CLSA)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Apr 2021 - Aug 2021: Internship
+  * College of Rehabilitaion Sciences, University of Manitoba
+  * Supervisor: Dr. Ruth Barclay 
+  * Project: The Getting Older adults OUTdoors (GO-OUT)
