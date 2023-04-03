@@ -1,10 +1,8 @@
 ---
 title: "Getting Older adults OUTdoors (GO-OUT)"
+excerpt: "Research assistant/data analyst, Under supervision of Dr. Ruth Barclay, College of Rehabilitaion Sciences, University of Manitoba"
+date: 2021-04-30
 collection: projects
-type: "Research assistant/data analyst"
-permalink: /projects/GO-OUT
-venue: "Under supervision of Dr. Ruth Barclay, College of Rehabilitaion Sciences, University of Manitoba"
-date: 2021-01-01
 location: "Winnipeg, Manitoba"
 ---
 
