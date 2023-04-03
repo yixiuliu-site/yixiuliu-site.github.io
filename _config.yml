@@ -248,7 +248,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _work
@@ -256,7 +256,7 @@ defaults:
       path: ""
       type: work
     values:
-      layout: work
+      layout: single
       author_profile: true
       share: true
   # _projects
@@ -264,7 +264,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: projects
+      layout: single
       author_profile: true
       share: true
 
