@@ -3,10 +3,12 @@ title: "Junior Epidemiologist "
 collection: work
 type: "Apr 2018 – Feb 2020"
 permalink: /work/junior-epi-1
-venue: "Under supervision of Dr. Joy Wei and Dr. Carla Loeppky"
-# date: 2018-04-30
-location: "Information Management & Analytics, Manitoba Health, Seniors and Active Living, Winnipeg, Manitoba"
+venue: "Information Management & Analytics, Manitoba Health, Seniors and Active Living"
+date: 2018-04-30
+location: "Winnipeg, Manitoba"
 ---
+
+Yixiu worked as a junior epidemiologist under supervision of Dr. Joy Wei and Dr. Carla Loeppky.
 
 Duties
 ======
