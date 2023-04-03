@@ -2,7 +2,7 @@
 title: "Biostatistician"
 collection: work
 type: "Feb 2022 – Current"
-permalink: /work/biastatistician_cardiac
+permalink: /work/biostatistician_cardiac
 venue: "Cardiac Science Manitoba at St. Boniface"
 date: 2022-04-30
 location: "Winnipeg, Manitoba"
