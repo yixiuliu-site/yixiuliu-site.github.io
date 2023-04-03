@@ -1,12 +1,11 @@
 ---
 title: "Getting Older adults OUTdoors (GO-OUT)"
-excerpt: "Full-time intership as a research assistant/data analyst, under supervision of Dr. Ruth Barclay, College of Rehabilitaion Sciences, University of Manitoba in the 2021 Summer.
+excerpt: "Full-time intership as a research assistant/data analyst, under supervision of Dr. Ruth Barclay, College of Rehabilitaion Sciences, University of Manitoba in the 2021 Summer."
+collection: projects
+---
 
 ### Purposes ###
 The purposes of this project are using the data from the CLSA to: a) develop a model adapted from the conceptual framework of the GOOUT intervention [(Salbach et al. (2019))](https://bmjopen.bmj.com/content/9/4/e029393), b) explore the complex relationship among individual characteristics and environmental characteristics and outdoor walking in older adults with outdoor walking difficulties.
-"
-collection: projects
----
 
 ### My Roles ###
 * Applied for ethics approval to use the data
