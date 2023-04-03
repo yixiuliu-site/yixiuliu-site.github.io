@@ -3,9 +3,9 @@ title: "Canadian Longitudinal Study on Aging (CLSA)"
 collection: projects
 type: "Research assistant"
 permalink: /projects/CLSA
-venue: "Under supervision of Dr. Ruth Barclay and Dr. Sandra Webber"
+venue: "Under supervision of Dr. Ruth Barclay and Dr. Sandra Webber, College of Rehabilitaion Sciences, University of Manitoba"
 date: 2020-01-01
-location: "College of Rehabilitaion Sciences, University of Manitoba"
+location: "Winnipeg, Manitoba"
 ---
 
 The Canadian Longitudinal Study on Aging is a national prospective study, following a cohort of more than 50,000 individuals aged between 45 and 85 years old for 20 years since 2012. More details refer to [their official website](https://www.clsa-elcv.ca/).

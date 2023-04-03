@@ -3,9 +3,9 @@ title: "Getting Older adults OUTdoors (GO-OUT)"
 collection: projects
 type: "Research assistant/data analyst"
 permalink: /projects/GO-OUT
-venue: "Under supervision of Dr. Ruth Barclay"
+venue: "Under supervision of Dr. Ruth Barclay, College of Rehabilitaion Sciences, University of Manitoba"
 date: 2021-01-01
-location: "College of Rehabilitaion Sciences, University of Manitoba"
+location: "Winnipeg, Manitoba"
 ---
 
 The Getting Older adults OUTdoors (GO-OUT) is a randomized controlled trial to evaluate the effect of a theory-based and task-oriented outdoor walking program for older adults with difficulties walking outdoors. It collected data at four time points (baseline, 3, 5.5, and 12 months) on about 200 participants since 2018. More details can be found in the [Clinical Trials official website](https://clinicaltrials.gov/ct2/show/NCT03292510).

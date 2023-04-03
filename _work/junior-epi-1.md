@@ -7,7 +7,6 @@ venue: "Under supervision of Dr. Joy Wei and Dr. Carla Loeppky"
 # date: 2018-04-30
 location: "Information Management & Analytics, Manitoba Health, Seniors and Active Living, Winnipeg, Manitoba"
 ---
-123456
 
 Duties
 ======

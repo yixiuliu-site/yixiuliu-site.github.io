@@ -259,6 +259,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
   # _projects
   - scope:
       path: ""
@@ -267,6 +268,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
