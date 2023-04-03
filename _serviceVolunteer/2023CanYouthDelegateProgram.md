@@ -1,9 +1,9 @@
 ---
 title: "The Canadian Youth Committee for the WHA/PAHO-DC"
 collection: serviceVolunteer
-type: "2023"
+type: "Led by"
 permalink: /serviceVolunteer/2022SSCSessionChair
-venue: "2023 Candadian Youth Delegate"
+venue: "the 2023 Candadian Youth Delegate"
 date: 2023-03-01
 location: "Virtual"
 ---
