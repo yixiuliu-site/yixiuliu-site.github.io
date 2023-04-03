@@ -4,10 +4,11 @@ collection: serviceVolunteer
 type: "2022/2023 School Year"
 permalink: /serviceVolunteer/CHSStudentCouncil
 venue: "Department of Community Health Sciences Student Council, University of Manitoba"
-date: 2022-01-01
+date: 2023-01-01
 location: "Winnipeg, Manitoba"
 ---
-                                      
+
+Yixiu serves as the educational rep and the department council rep on the CHS student council.
 
 ### Duties ###
 Educational Activities Representative: 

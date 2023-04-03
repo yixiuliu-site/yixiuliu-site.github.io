@@ -4,7 +4,7 @@ collection: serviceVolunteer
 type: "May 2020 – Sep 2022"
 permalink: /serviceVolunteer/DCTDC
 venue: "Centre of Healthcare Innovation (CHI), University of Manitoba"
-date: 2020-01-01
+date: 2020-04-01
 location: "Winnipeg, Manitoba"
 ---
 
