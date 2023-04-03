@@ -8,8 +8,6 @@ date: 2020-01-01
 location: "Winnipeg, Manitoba"
 ---
 
-The Canadian Longitudinal Study on Aging is a national prospective study, following a cohort of more than 50,000 individuals aged between 45 and 85 years old for 20 years since 2012. More details refer to [their official website](https://www.clsa-elcv.ca/).
-
 ### Purposes ###
 The purposes of this project are using the data from the CLSA to: 1) validate a model for community ambulation that was developed for stroke patients [(Barclay et al. (2014))](https://journals.sagepub.com/doi/abs/10.1177/0269215514546769)), 2) develop a model for mobility based on a conceptual framework [(Webber et al. (2010))](https://pubmed.ncbi.nlm.nih.gov/20145017/)) for people aged 65+ and people with arthritis on knees or hips, respectively. In addition, measurement invariance was tested for age and sex.
 
@@ -23,3 +21,5 @@ The purposes of this project are using the data from the CLSA to: 1) validate a 
 ### Outcomes ###
 Two manuscripts are under preparation.
 
+### Description of the CLSA study ###
+The Canadian Longitudinal Study on Aging is a national prospective study, following a cohort of more than 50,000 individuals aged between 45 and 85 years old for 20 years since 2012. More details refer to [their official website](https://www.clsa-elcv.ca/).
