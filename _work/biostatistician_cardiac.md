@@ -22,5 +22,5 @@ Dr. Liu is the Research Director, and Dr. Ducas, and Dr. Avery are the two co-le
 * Zwolle Risk Score
     * Abstract publication
         * Krishnan, S., Niemcyzk, G., Parr, C., **Liu, Y.**, et al. IDENTIFYING SOCIAL FACTORS THAT MAY LIMIT EARLY DISCHARGE IN LOW-RISK ST-SEGMENT ELEVATION MYOCARDIAL INFARCTION. Can J Cardiol. 2022 Oct, 38(10), S187 - S188.
-
+        [Download from here](https://doi.org/10.1016/j.cjca.2022.08.151)
 
