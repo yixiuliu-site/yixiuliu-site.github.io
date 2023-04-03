@@ -8,5 +8,5 @@ date: 2022-04-30
 location: "Winnipeg, Manitoba"
 ---
 
-Yixiu works part-time as a Biostatistician at the Cardiac Science Manitoba at the St. Boniface Hospital, Winnipeg, MB. She provides statistical consultant and conducts data analysis for a research team with primary members of [Dr. Shuangbo Liu](https://cardiacsciencesmb.ca/staff/shuangbo-liu/), Dr. John Ducas, Dr. Lorraine Avery, and [Dr. Ashish Shah](https://cardiacsciencesmb.ca/staff/ashish-shah/). 
+Yixiu works part-time as a Biostatistician at the Cardiac Science Manitoba at the St. Boniface Hospital, Winnipeg, MB. She provides statistical consultant and conducts data analysis for a research team with primary members of [Dr. Shuangbo Liu](https://cardiacsciencesmb.ca/staff/shuangbo-liu/), [Dr. John Ducas](https://cardiacsciencesmb.ca/staff/john-ducas/), [Dr. Lorraine Avery](https://cardiacsciencesmb.ca/staff/lorraine-avery/) , and [Dr. Ashish Shah](https://cardiacsciencesmb.ca/staff/ashish-shah/). 
 
