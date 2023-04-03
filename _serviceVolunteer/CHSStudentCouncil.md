@@ -7,6 +7,8 @@ venue: "Department of Community Health Sciences Student Council, University of M
 date: 2022-01-01
 location: "Winnipeg, Manitoba"
 ---
+                                      
+                                      
 ### Duties ###
 Educational Activities Representative: organize educational activities for CHS students, promote attendance at the
 colloquium series and any other educational events/workshops, and review and approve council member’s application to
