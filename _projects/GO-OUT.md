@@ -19,7 +19,7 @@ The purposes of this project are using the data from the CLSA to: a) develop a m
 * Generated descriptive statistics and exploratory analyses for researchers who used the GO-OUT data
 * Conducted all the data analyses, in which the structural equation modeling is the main statistical method
 * Regularly reported, discussed progress and results with Dr. Barclay and Dr. Webber
-* Wrote the manuscript, edit and review it based on coauthors' comments
+* Wrote the manuscript, edited and reviewed it based on coauthors' comments
 
 ### Outcomes ###
 One first-authored manuscript is submitted to the Journal of Physiotherapy Theory and Practice.
