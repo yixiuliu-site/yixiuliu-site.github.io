@@ -8,7 +8,7 @@ date: 2022-04-30
 location: "Winnipeg, Manitoba"
 ---
 
-Yixiu works part-time as a Biostatistician at the Cardiac Science Manitoba at the St. Boniface Hospital, Winnipeg, MB. She provides statistical consultant and conducts data analysis for a research team with primary members of [Dr. Shuangbo Liu](https://cardiacsciencesmb.ca/staff/shuangbo-liu/), [Dr. John Ducas](https://cardiacsciencesmb.ca/staff/john-ducas/), [Dr. Lorraine Avery](https://cardiacsciencesmb.ca/staff/lorraine-avery/), and [Dr. Ashish Shah](https://cardiacsciencesmb.ca/staff/ashish-shah/). 
+Yixiu works part-time as a Biostatistician at the Cardiac Science Manitoba at the St. Boniface Hospital, Winnipeg, MB. She provides statistical consulting and conducts data analysis for a research team with primary members of [Dr. Shuangbo Liu](https://cardiacsciencesmb.ca/staff/shuangbo-liu/), [Dr. John Ducas](https://cardiacsciencesmb.ca/staff/john-ducas/), [Dr. Lorraine Avery](https://cardiacsciencesmb.ca/staff/lorraine-avery/), and [Dr. Ashish Shah](https://cardiacsciencesmb.ca/staff/ashish-shah/). 
 
 Dr. Liu is the Research Director, and Dr. Ducas, and Dr. Avery are the two co-leads for the [Manitoba acute coronary syndrame (ACS) Network](https://cardiacsciencesmb.ca/patients-visitors/clinical-areas-pathways/acs-network/). My projects working with the Manitoba ACS Network team primarily focus on evaluating health care practices for ACS patients throughout health regions in Manitoba using administrative data. The projects Yixiu has been involved include: 
 
