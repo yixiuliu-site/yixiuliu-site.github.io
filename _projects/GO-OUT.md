@@ -15,8 +15,8 @@ The purposes of this project are using the data from the CLSA to: a) develop a m
 * Applied for ethics approval to use the data
 * Cleaned data from RedCap
 * Conducted data quality check and preprocessing
-* Extracted and prepared data for researchers that will be using the GO-OUT data
-* Generated descriptive statistics and exploratory analyses for researchers used the GO-OUT data
+* Extracted and prepared data for researchers who will be using the GO-OUT data
+* Generated descriptive statistics and exploratory analyses for researchers who used the GO-OUT data
 * Conducted all the data analyses, including structural equation modeling as the main statistical method
 * Regularly reported and discussed progress, decisions need to make, and results with Dr. Barclay and Dr. Webber
 * Wrote the manuscript, edit and review it based on coauthors' comments
