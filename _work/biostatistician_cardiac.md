@@ -15,12 +15,12 @@ Dr. Liu is the Research Director, and Dr. Ducas, and Dr. Avery are the two co-le
 * [Dial Don't Drive Campaign](https://mbacsnetwork.ca/dialdontdrive)
 * Ten Minute Tracing 
     * Abstract publication
-        * Nelson, D., Marshall, K., **Liu, Y.**, et al. DELAYED SYMPTOM ONSET-TO-FIRST MEDICAL CONTACT IN ST-SEGMENT ELEVATION MYOCARDIAL INFARCTION IS ASSOCIATED WITH MORTALITY. J Am Coll Cardiol. 2023 Mar, 81 (8_Supplement) 1227.
+        * Nelson, D., Marshall, K., **Liu, Y.**, et al. Delayed symptom onset-to-first medical contact in ST-segment elevation myocadial infraction is associated with mortality. J Am Coll Cardiol. 2023 Mar, 81 (8_Supplement) 1227.
         [Download from here](https://doi.org/10.1016/S0735-1097(23)01671-6)
-        * Nelson, D., Marshall, K., **Liu, Y.**, et al. FACTORS ASSOCIATED WITH DELAY IN STEMI PATIENTS SEEKING MEDICAL ATTENTION. J Am Coll Cardiol. 2023 Mar, 81 (8_Supplement) 1308.
+        * Nelson, D., Marshall, K., **Liu, Y.**, et al. Factors associated with delay in STEMI patients seeking medical attention. J Am Coll Cardiol. 2023 Mar, 81 (8_Supplement) 1308.
         [Download from here](https://doi.org/10.1016/S0735-1097(23)01752-7)
 * Zwolle Risk Score
     * Abstract publication
-        * Krishnan, S., Niemcyzk, G., Parr, C., **Liu, Y.**, et al. IDENTIFYING SOCIAL FACTORS THAT MAY LIMIT EARLY DISCHARGE IN LOW-RISK ST-SEGMENT ELEVATION MYOCARDIAL INFARCTION. Can J Cardiol. 2022 Oct, 38(10), S187 - S188.
+        * Krishnan, S., Niemcyzk, G., Parr, C., **Liu, Y.**, et al. Identifying social factors that may limit early discharge in low-risk ST-segment elevation myocardial infraction. Can J Cardiol. 2022 Oct, 38(10), S187 - S188.
         [Download from here](https://doi.org/10.1016/j.cjca.2022.08.151)
 
