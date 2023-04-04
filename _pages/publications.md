@@ -10,7 +10,7 @@ author_profile: true
 #### * Corresponding author ####
 
 ### 2022 ###
-* **Yixiu Liu**\*, Depeng Jiang. Multimorbidity Patterns in US Adults with Subjective Cognitive Decline and Their Relationship with Functional Difficulties. Journal of Aging and Health. March 2022. doi: 10.1177/08982643221080287
+* **Yixiu Liu**\*, Depeng Jiang. Multimorbidity patterns in US adults with subjective cognitive decline and their relationship with functional difficulties. Journal of Aging and Health. March 2022. doi: 10.1177/08982643221080287
 
 [Download paper here](https://journals.sagepub.com/doi/full/10.1177/08982643221080287)
 
