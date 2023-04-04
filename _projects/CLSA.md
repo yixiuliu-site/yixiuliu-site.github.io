@@ -21,5 +21,5 @@ The purposes of this project are using the data from the CLSA to: 1) validate a 
 ### Outcomes ###
 Two manuscripts are under preparation.
 
-### Description of the CLSA study ###
+### What is the CLSA study? ###
 The Canadian Longitudinal Study on Aging is a national prospective study, following a cohort of more than 50,000 individuals aged between 45 and 85 years old for 20 years since 2012. More details refer to [their official website](https://www.clsa-elcv.ca/).
