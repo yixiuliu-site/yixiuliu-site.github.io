@@ -14,8 +14,8 @@ The purposes of this project are using the data from the CLSA to: 1) validate a 
 ### My Roles ###
 * Conducted data quality check and preprocessing
 * Conducted all the data analyses, including structural equation modeling as the main statistical method, multi-group analysis to test the measurement invariance across age groups and sex
-* Generated a visual diagram the explicitly depicts the complex relationship of a number of variables 
-* Regularly reported and discussed progress, decisions need to make, and results with Dr. Barclay and Dr. Webber
+* Generated a visual diagram that explicitly depicts the complex relationship of a number of variables 
+* Regularly reported, discussed progress and results with Dr. Barclay and Dr. Webber
 * Wrote the methods and results sections for two manuscripts, edit and review the whole manuscripts
 
 ### Outcomes ###
