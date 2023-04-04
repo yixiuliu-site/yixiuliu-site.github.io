@@ -24,5 +24,5 @@ The purposes of this project are using the data from the CLSA to: a) develop a m
 ### Outcomes ###
 One first-authored manuscript is submitted to the Journal of Physiotherapy Theory and Practice.
 
-### Description of the GO-OUT study ###
+### What is the GO-OUT study? ###
 The Getting Older adults OUTdoors (GO-OUT) is a randomized controlled trial to evaluate the effect of a theory-based and task-oriented outdoor walking program for older adults with difficulties walking outdoors. It collected data at four time points (baseline, 3, 5.5, and 12 months) on about 200 participants since 2018. More details can be found in the [Clinical Trials official website](https://clinicaltrials.gov/ct2/show/NCT03292510).
