@@ -8,7 +8,7 @@ date: 2018-04-30
 location: "Winnipeg, Manitoba"
 ---
 
-Yixiu worked as a junior epidemiologist under supervision of Dr. Joy Wei and Dr. Carla Loeppky.
+Yixiu worked as a junior epidemiologist under the supervision of Dr. Joy Wei and Dr. Carla Loeppky.
 
 Duties
 ======
