@@ -27,6 +27,6 @@ Workshops/Events held while Yixiu was working there
 
 ### Journal Clubs ###
 To endorse the journal club in CHI at University of Manitoba, which further support the Canadian Statistics Sciences Institute (CANSSI) national seminar series, Sep 2020 - Apr 2021
-Co-organizer: Yixiu Liu & Naomi Hamm
+Co-organizers: Yixiu Liu & Naomi Hamm
 
 
