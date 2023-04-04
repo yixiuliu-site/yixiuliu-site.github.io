@@ -3,7 +3,7 @@ title: "Canadian Longitudinal Study on Aging (CLSA)"
 collection: projects
 type: "Research assistant"
 permalink: /projects/CLSA
-venue: "Under supervision of Dr. Ruth Barclay and Dr. Sandra Webber, College of Rehabilitaion Sciences, University of Manitoba"
+venue: "Under the supervision of Dr. Ruth Barclay and Dr. Sandra Webber, College of Rehabilitaion Sciences, University of Manitoba"
 date: 2020-01-01
 location: "Winnipeg, Manitoba"
 ---
