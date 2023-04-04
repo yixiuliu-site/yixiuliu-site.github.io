@@ -18,7 +18,7 @@ The purposes of this project are using the data from the CLSA to: a) develop a m
 * Extracted and prepared data for researchers who will be using the GO-OUT data
 * Generated descriptive statistics and exploratory analyses for researchers who used the GO-OUT data
 * Conducted all the data analyses, in which the structural equation modeling is the main statistical method
-* Regularly reported and discussed progress, decisions need to make, and results with Dr. Barclay and Dr. Webber
+* Regularly reported, discussed progress and results with Dr. Barclay and Dr. Webber
 * Wrote the manuscript, edit and review it based on coauthors' comments
 
 ### Outcomes ###
