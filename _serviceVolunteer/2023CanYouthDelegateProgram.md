@@ -1,5 +1,5 @@
 ---
-title: "The 20230Canadian Youth Delegate Advisor Committee for the WHA/PAHO-DC"
+title: "The 2023 Canadian Youth Delegate Advisor Committee for the WHA/PAHO-DC"
 collection: serviceVolunteer
 type: "Led by"
 permalink: /serviceVolunteer/2022SSCSessionChair
