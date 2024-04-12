@@ -4,11 +4,11 @@ collection: teaching
 type: "2023 Summer"
 permalink: /teaching/2023RWorkshops
 venue: "George & Fay Yee Centre for Health Innovation (CHI), Manitoba"
-date: 2024-05-30
+date: 2023-05-30
 location: "Winnipeg, Manitoba"
 ---
 
-Leading a series of R workshops: R for Absolute Beginners, R for Data Wrangling, R for Basic Stats, and R for Data Visualization
+Lead a series of R workshops: R for Absolute Beginners, R for Data Wrangling, R for Basic Stats, and R for Data Visualization.
 
 More informaton can be found:
 
