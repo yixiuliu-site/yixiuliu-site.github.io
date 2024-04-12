@@ -19,7 +19,15 @@ The purposes of this project are using the data from the CLSA to: 1) validate a 
 * Wrote the methods and results sections for two manuscripts, edited and reviewed the whole manuscripts
 
 ### Outcomes ###
-Two manuscripts are under preparation.
+Two second-authored papers are published with Journal of BMC Geriatrics.
+
+* Barclay, R.\*, **Liu, Y.**, Ripat, J., Tate, R., Nowicki, S., Jiang, D., & Webber, S. C. (2024). Community ambulation in older adults and people with OA - a model verification using Canadian Longitudinal Study on Aging (CLSA) data. BMC geriatrics, 24(1), 31. https://doi.org/10.1186/s12877-023-04598-3
+
+[Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04598-3)
+
+* Webber, S. C.\*, **Liu, Y.**, Jiang, D., Ripat, J., Nowicki, S., Tate, R., & Barclay, R. (2023). Verification of a comprehensive framework for mobility using data from the Canadian Longitudinal Study on Aging: a structural equation modeling analysis. BMC geriatrics, 23(1), 823. https://doi.org/10.1186/s12877-023-04566-x
+
+[Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04566-x)
 
 ### What is the CLSA study? ###
 The Canadian Longitudinal Study on Aging is a national prospective study, following a cohort of more than 50,000 individuals aged between 45 and 85 years old for 20 years since 2012. More details refer to [their official website](https://www.clsa-elcv.ca/).
