@@ -9,6 +9,10 @@ author_profile: true
 
 #### * Corresponding author; 1 As co-first author ####
 ### 2024 ###
+* Bews, H., Jia, S., **Liu, Y.**, Sklar, J., Ducas, J., Kirkpatrick, I., Tam, J. W., & Shah, A. H\*. (2024). High Output Cardiac State: Evaluating the incidence, plausible etiologies and outcomes. Current problems in cardiology, 102561. Advance online publication. https://doi.org/10.1016/j.cpcardiol.2024.102561
+
+[Download paper here](https://pubmed.ncbi.nlm.nih.gov/38599560/)
+
 * Barclay, R.\*, **Liu, Y.**, Ripat, J., Tate, R., Nowicki, S., Jiang, D., & Webber, S. C. (2024). Community ambulation in older adults and people with OA - a model verification using Canadian Longitudinal Study on Aging (CLSA) data. BMC geriatrics, 24(1), 31. https://doi.org/10.1186/s12877-023-04598-3
 
 [Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04598-3)
