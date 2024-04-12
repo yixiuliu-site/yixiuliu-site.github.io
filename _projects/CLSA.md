@@ -19,7 +19,7 @@ The purposes of this project are using the data from the CLSA to: 1) validate a 
 * Wrote the methods and results sections for two manuscripts, edited and reviewed the whole manuscripts
 
 ### Outcomes ###
-Two second-authored papers are published with Journal of BMC Geriatrics.
+Two second-authored papers are published with the Journal of BMC Geriatrics.
 
 * Barclay, R.\*, **Liu, Y.**, Ripat, J., Tate, R., Nowicki, S., Jiang, D., & Webber, S. C. (2024). Community ambulation in older adults and people with OA - a model verification using Canadian Longitudinal Study on Aging (CLSA) data. BMC geriatrics, 24(1), 31. https://doi.org/10.1186/s12877-023-04598-3
 
