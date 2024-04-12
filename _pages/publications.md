@@ -8,13 +8,21 @@ author_profile: true
 {% include base_path %}
 
 #### * Corresponding author; 1 As co-first author ####
+### 2024 ###
+* Barclay, R.\*, **Liu, Y.**, Ripat, J., Tate, R., Nowicki, S., Jiang, D., & Webber, S. C. (2024). Community ambulation in older adults and people with OA - a model verification using Canadian Longitudinal Study on Aging (CLSA) data. BMC geriatrics, 24(1), 31. https://doi.org/10.1186/s12877-023-04598-3
+
+[Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04598-3)
+
+* **Liu Y.**, Salbach N. M., Webber S. C., Barclay R\*. Individual and environmental variables related to outdoor walking among older adults: Verifying a model to guide the design of interventions targeting outdoor walking. PLoS ONE 2024;19(1): e0296216. https://doi.org/10.1371/journal.pone.0296216
+
+[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296216)
 
 ### 2023 ###
 * Webber, S. C.\*, **Liu, Y.**, Jiang, D., Ripat, J., Nowicki, S., Tate, R., & Barclay, R. (2023). Verification of a comprehensive framework for mobility using data from the Canadian Longitudinal Study on Aging: a structural equation modeling analysis. BMC geriatrics, 23(1), 823. https://doi.org/10.1186/s12877-023-04566-x
 
 [Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04566-x)
 
-* Ruth Barclay,<sup>1</sup>, Sandra C. Webber^1^, Francine Hahn, C. Allyson Jones2, Nancy E. Mayo, Shajicaa Sivakumaran, **Yixiu Liu**, Philip D. Chilibeck, Nancy M. Salbach\*. A park-based group mobility program for older adults with difficulty walking outdoors: A quantitative process evaluation of the Getting Older Adults Outdoors (GO-OUT) randomized controlled trial. BMC Geriatr. 2023;23(1):833. Published 2023 Dec 11. doi:10.1186/s12877-023-04524-7
+* Ruth Barclay,<sup>1</sup>, Sandra C. Webber<sup>1</sup>, Francine Hahn, C. Allyson Jones2, Nancy E. Mayo, Shajicaa Sivakumaran, **Yixiu Liu**, Philip D. Chilibeck, Nancy M. Salbach\*. A park-based group mobility program for older adults with difficulty walking outdoors: A quantitative process evaluation of the Getting Older Adults Outdoors (GO-OUT) randomized controlled trial. BMC Geriatr. 2023;23(1):833. Published 2023 Dec 11. doi:10.1186/s12877-023-04524-7
 
 [Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04524-7)
 
