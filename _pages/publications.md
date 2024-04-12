@@ -7,19 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-#### * Corresponding author ####
+#### * Corresponding author; 1 As co-first author ####
 
 ### 2023 ###
 * Webber, S. C.\*, **Liu, Y.**, Jiang, D., Ripat, J., Nowicki, S., Tate, R., & Barclay, R. (2023). Verification of a comprehensive framework for mobility using data from the Canadian Longitudinal Study on Aging: a structural equation modeling analysis. BMC geriatrics, 23(1), 823. https://doi.org/10.1186/s12877-023-04566-x
 
 [Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04566-x)
 
-* Ruth Barclay^1^, Sandra C. Webber^1^, Francine Hahn, C. Allyson Jones2, Nancy E. Mayo, Shajicaa Sivakumaran, **Yixiu Liu**, Philip D. Chilibeck, Nancy M. Salbach\*. A park-based group mobility program for older adults with difficulty walking outdoors: A quantitative process evaluation of the Getting Older Adults Outdoors (GO-OUT) randomized controlled trial. BMC Geriatr. 2023;23(1):833. Published 2023 Dec 11. doi:10.1186/s12877-023-04524-7
-	1 As co-first author; * As corresponding author
+* Ruth Barclay,<sup>1</sup>, Sandra C. Webber^1^, Francine Hahn, C. Allyson Jones2, Nancy E. Mayo, Shajicaa Sivakumaran, **Yixiu Liu**, Philip D. Chilibeck, Nancy M. Salbach\*. A park-based group mobility program for older adults with difficulty walking outdoors: A quantitative process evaluation of the Getting Older Adults Outdoors (GO-OUT) randomized controlled trial. BMC Geriatr. 2023;23(1):833. Published 2023 Dec 11. doi:10.1186/s12877-023-04524-7
 
-* **Yixiu Liu**\*, Depeng Jiang. Multimorbidity patterns in US adults with subjective cognitive decline and their relationship with functional difficulties. Journal of Aging and Health. March 2022. doi: 10.1177/08982643221080287
-
-[Download paper here](https://journals.sagepub.com/doi/full/10.1177/08982643221080287)
+[Download paper here](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04524-7)
 
 ### 2022 ###
 * **Yixiu Liu**\*, Depeng Jiang. Multimorbidity patterns in US adults with subjective cognitive decline and their relationship with functional difficulties. Journal of Aging and Health. March 2022. doi: 10.1177/08982643221080287
