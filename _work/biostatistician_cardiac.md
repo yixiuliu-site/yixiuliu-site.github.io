@@ -28,5 +28,7 @@ Dr. Liu is the Research Director, and Dr. Ducas, and Dr. Avery are the two co-le
 
 * Dr. Ashish Shah
     * High Output Cardiac State (HOCS) Project
+
     To characterize patients with HOCS
+    
     Delivery: Bews, H., Jia, S., Liu, Y., Sklar, J., Ducas, J., Kirkpatrick, I., Tam, J. W., & Shah, A. H. (2024). High Output Cardiac State: Evaluating the incidence, plausible etiologies and outcomes. Current problems in cardiology, 102561. Advance online publication. https://doi.org/10.1016/j.cpcardiol.2024.102561
